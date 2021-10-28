@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T19:27:12.358Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="m-oYUATS9pjjwz0hrnwe" version="15.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T20:09:54.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="1w26_9n_SDjvYsxbs-o2" version="15.6.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2652" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2282" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,11 +145,11 @@
         <mxCell id="1393" value="Спорт.гимнастика - любимое" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1163.5" y="81.5" width="206.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1394" value="Шахматы + - скучно" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1270.25" y="141.5" width="146.5" height="40" as="geometry" />
+        <mxCell id="1394" value="Шахматы + - скучно, на кружке, &lt;br&gt;но с родителями нра" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1270.25" y="150" width="199.75" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="1395" value="Шашки +" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1334.25" y="181.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1353.75" y="188" width="115.75" height="18.5" as="geometry" />
         </mxCell>
         <mxCell id="1396" value="Танцы: брейк, я так и дома могу" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1298.5" y="260" width="191.5" height="51.5" as="geometry" />
@@ -227,7 +227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1411" value="Впускает в свой круг через &lt;br&gt;совместное творчество" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1717" y="550" width="259" height="40" as="geometry" />
+          <mxGeometry x="1960" y="510" width="259" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1412" value="Стесняется новых взрослых" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2047" y="316.5" width="194" height="40" as="geometry" />
@@ -238,8 +238,8 @@
         <mxCell id="1414" value="Активный" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1550" y="275" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1416" value="Добрый, ласковый" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1620" y="220" width="120" height="40" as="geometry" />
+        <mxCell id="1416" value="Добрый, ласковый, заботливый" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1540" y="220" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1417" value="Веселый, &lt;br&gt;любит смеяться, улыбаться" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1680" y="160" width="206" height="46.5" as="geometry" />
@@ -250,14 +250,14 @@
         <mxCell id="1419" value="Новое &lt;br&gt;начинает с фразы &quot;у меня не получится&quot;, &lt;br&gt;&quot;мне не нравится&quot; и тп" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1970" y="259" width="260" height="51.5" as="geometry" />
         </mxCell>
-        <mxCell id="1420" value="Сразу после занятия может сказать, что не помнит что было, &lt;br&gt;но рассказывает это через полгода" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1920" y="510" width="390" height="33.5" as="geometry" />
+        <mxCell id="1420" value="Сразу после занятия может сказать, что не помнит что было, &lt;br&gt;но рассказывает получ ифнорм через полгода" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="561.5" width="390" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="1421" value="Знания быстрее усваивает при индивид с педагогом" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1971" y="440" width="329" height="40" as="geometry" />
+          <mxGeometry x="2051.5" y="460" width="329" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1422" value="На адаптацию около 30 мин&amp;nbsp;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="2056" y="381.5" width="210" height="48.5" as="geometry" />
+          <mxGeometry x="2140" y="356.5" width="210" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="1423" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1352" target="1411" edge="1">
           <mxGeometry x="31" y="106.5" width="100" height="100" as="geometry">
@@ -313,10 +313,14 @@
             <mxPoint x="131" y="106.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1433" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1352" target="1421" edge="1">
+        <mxCell id="1433" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;startArrow=none;" parent="1" source="1352" target="1421" edge="1">
           <mxGeometry x="31" y="106.5" width="100" height="100" as="geometry">
             <mxPoint x="31" y="206.5" as="sourcePoint" />
             <mxPoint x="131" y="106.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2080" y="470" />
+              <mxPoint x="2050" y="480" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1434" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1352" target="1420" edge="1">
@@ -340,13 +344,13 @@
         <mxCell id="1439" value="Физ активность - &amp;nbsp;нравится гимнастика, &lt;br&gt;самбо, бегать, танцевать свои танцы" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2101" y="690" width="279" height="56.5" as="geometry" />
         </mxCell>
-        <mxCell id="1440" value="Творчество (меньше всего любит аппликацию, &lt;br&gt;тк с ножницами самостоятельно не получается ровно &lt;br&gt;и это его расстраивает)" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="2190" y="776.5" width="330" height="73.5" as="geometry" />
+        <mxCell id="1440" value="Творчество (меньше всего любит аппликацию, &lt;br&gt;тк с ножницами самостоятельно не получается ровно &lt;br&gt;и это его расстраивает), всё остальное любит и интересно совместносто" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2190" y="780" width="470" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1441" value="Изучает космос (планеты), природу (муравьи), &lt;br&gt;как самолеты, поезда и тп" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1441" value="Изучает космос (планеты), природу (муравьи), &lt;br&gt;инженерия (как самолеты, поезда ракеты и тп)" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2121" y="966.5" width="319" height="53.5" as="geometry" />
         </mxCell>
-        <mxCell id="1442" value="ИТ (тел, прист, планш, ноут - дается легко), &lt;br&gt;любит когда н-р в программировании можно записать голосом,&lt;br&gt;&amp;nbsp;смотреть видео как он что-то делал" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1442" value="ИТ (тел, прист, планш, ноут - дается легко), &lt;br&gt;любит когда н-р в программировании можно записать голосом,&lt;br&gt;любит смотреть видео как он что-то делал" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2181" y="871.5" width="399" height="68.5" as="geometry" />
         </mxCell>
         <mxCell id="1444" value="Музыка - любит включать на Алисе любимые песни" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -413,7 +417,7 @@
           <mxGeometry x="1637" y="1046.5" width="194" height="37" as="geometry" />
         </mxCell>
         <mxCell id="1458" value="Математика&amp;nbsp;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1900" y="1274" width="150" height="36" as="geometry" />
+          <mxGeometry x="1907" y="1270.5" width="150" height="36" as="geometry" />
         </mxCell>
         <mxCell id="1459" value="Животные &lt;br&gt;и насекомые" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1890" y="1114" width="120" height="40" as="geometry" />
@@ -422,7 +426,7 @@
           <mxGeometry x="1751" y="1086.5" width="119" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="1461" value="Супергерои" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1931.5" y="1181.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1932" y="1198.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1462" value="Инженерия&amp;nbsp;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1751" y="1320.5" width="181" height="38.5" as="geometry" />
@@ -457,38 +461,35 @@
             <mxPoint x="351" y="-103.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1468" value="Вместе ( делать / ездить / всё)" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1358.5" y="1274" width="201.5" height="36" as="geometry" />
+        <mxCell id="1468" value="Вместе с родителями ездить / &lt;br&gt;делать (почти всё что угодно), просто быть рядом" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="1145" width="310.5" height="53.5" as="geometry" />
         </mxCell>
-        <mxCell id="1469" value="" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1373.5" y="1346.5" width="120" height="40" as="geometry" />
+        <mxCell id="1469" value="Синий цвет" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1049" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1470" value="" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1348.5" y="1411.5" width="120" height="40" as="geometry" />
+        <mxCell id="1470" value="Стильно наряжаться&lt;br&gt;&amp;nbsp;(выбирать одежду/обувь к покупке)" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1348.5" y="1399" width="271.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1471" value="Basidiomycota" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1283.5" y="1471.5" width="120" height="40" as="geometry" />
+        <mxCell id="1471" value="Носить разные носки" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1283.5" y="1471.5" width="176.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1472" value="Mushroom" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1472" value="Свою семью" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1183.5" y="1529" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1473" value="Lichen" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1083.5" y="1471.5" width="120" height="40" as="geometry" />
+        <mxCell id="1473" value="Воду и молоко" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="903.5" y="1399" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1474" value="Bread Mold" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1003.5" y="1411.5" width="120" height="40" as="geometry" />
+        <mxCell id="1474" value="Макароны, картошку, рис" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="883.5" y="1366" width="185" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1475" value="Yeast" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="963.5" y="1339" width="120" height="40" as="geometry" />
+        <mxCell id="1475" value="Огурец, банан, авокадо, манго" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="890" y="1340" width="189.5" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="1476" value="Zygospore" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="968.5" y="1274" width="120" height="40" as="geometry" />
+        <mxCell id="1476" value="Постоянство &lt;br&gt;(и боязнь попробовать новое)" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="960" y="1263" width="190" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="1477" value="Truffle" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1028.5" y="1209" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1478" value="Море, камушки" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1298.5" y="1194" width="120" height="40" as="geometry" />
+        <mxCell id="1478" value="Море, камушки, песок" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="1206.5" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1479" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1355" target="1478" edge="1">
           <mxGeometry x="243.5" y="39" width="100" height="100" as="geometry">
@@ -550,12 +551,6 @@
             <mxPoint x="343.5" y="39" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1489" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1355" target="1477" edge="1">
-          <mxGeometry x="243.5" y="39" width="100" height="100" as="geometry">
-            <mxPoint x="243.5" y="139" as="sourcePoint" />
-            <mxPoint x="343.5" y="39" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1490" value="Philadendron" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="623.5" y="1006.5" width="120" height="40" as="geometry" />
         </mxCell>
@@ -590,7 +585,7 @@
           <mxGeometry x="763.5" y="1281.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1501" value="Rose" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="783.5" y="1186" width="120" height="40" as="geometry" />
+          <mxGeometry x="721.5" y="1141.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1502" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1501" edge="1">
           <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
@@ -760,10 +755,8 @@
         <mxCell id="kbZLWcOoWII1aOp1QAB2-1543" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1351">
           <mxGeometry x="13.5" y="31.5" width="100" height="100" as="geometry">
             <mxPoint x="1197.770360886654" y="366.3721202654783" as="sourcePoint" />
-            <mxPoint x="1280" y="410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1260" y="390" />
-            </Array>
+            <mxPoint x="1280" y="400" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kbZLWcOoWII1aOp1QAB2-1544" value="Орф-музыка - скучно &lt;br&gt;(не давали инструменты)" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
@@ -796,8 +789,8 @@
             <mxPoint x="1036.8055555555557" y="381.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kbZLWcOoWII1aOp1QAB2-1551" value="Англ для билингвов" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1159.25" y="454" width="168.5" height="40" as="geometry" />
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1551" value="Языков кружки и занятия:&lt;br&gt;Англ для билингвов +&lt;br&gt;Испанский с носителем +&lt;br&gt;Англ с носителем дома ++&amp;nbsp;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1185.25" y="454" width="204.75" height="66" as="geometry" />
         </mxCell>
         <mxCell id="kbZLWcOoWII1aOp1QAB2-1552" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1351" target="kbZLWcOoWII1aOp1QAB2-1551">
           <mxGeometry x="23.5" y="41.5" width="100" height="100" as="geometry">
@@ -808,10 +801,10 @@
         <mxCell id="kbZLWcOoWII1aOp1QAB2-1553" value="Бассейн, с тренером - нет,&lt;br&gt;&amp;nbsp;с родителем - да" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="944.25" y="490" width="168.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kbZLWcOoWII1aOp1QAB2-1554" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0.922;entryY=-0.092;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1351" target="kbZLWcOoWII1aOp1QAB2-1553">
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1554" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" edge="1" parent="1" source="1351">
           <mxGeometry x="23.5" y="41.5" width="100" height="100" as="geometry">
             <mxPoint x="1148.440857096275" y="361.47208796583664" as="sourcePoint" />
-            <mxPoint x="1082.9430000000002" y="437.9999999999998" as="targetPoint" />
+            <mxPoint x="1090" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kbZLWcOoWII1aOp1QAB2-1557" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1435">
@@ -832,8 +825,8 @@
             <mxPoint x="1710" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kbZLWcOoWII1aOp1QAB2-1560" value="русс &amp;nbsp;(родной)" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=#FFFFFF;strokeColor=none;strokeWidth=3;fillColor=#64BBE2;" vertex="1" parent="1">
-          <mxGeometry x="1551" y="756.5" width="120" height="60" as="geometry" />
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1560" value="русс &amp;nbsp;(родной), просит родителей говорить с ним на русс и злится если на др, при этом читать можно и на др" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=#FFFFFF;strokeColor=none;strokeWidth=3;fillColor=#64BBE2;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="756.5" width="361" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kbZLWcOoWII1aOp1QAB2-1562" value="англ (билингв понимание)" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=#FFFFFF;strokeColor=none;strokeWidth=3;fillColor=#64BBE2;" vertex="1" parent="1">
           <mxGeometry x="1570" y="696.5" width="120" height="60" as="geometry" />
@@ -841,14 +834,11 @@
         <mxCell id="kbZLWcOoWII1aOp1QAB2-1563" value="испанский - нач" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=#FFFFFF;strokeColor=none;strokeWidth=3;fillColor=#64BBE2;" vertex="1" parent="1">
           <mxGeometry x="1610" y="636.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kbZLWcOoWII1aOp1QAB2-1564" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="1352">
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1564" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="1352" target="kbZLWcOoWII1aOp1QAB2-1565">
           <mxGeometry x="41" y="116.5" width="100" height="100" as="geometry">
             <mxPoint x="1732.4379264149647" y="385.51500688115175" as="sourcePoint" />
             <mxPoint x="1620" y="386" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="kbZLWcOoWII1aOp1QAB2-1565" value="Любит внимание" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1526" y="356.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kbZLWcOoWII1aOp1QAB2-1566" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" edge="1" parent="1" source="1353">
           <mxGeometry x="-14" y="206.5" width="100" height="100" as="geometry">
@@ -884,6 +874,128 @@
           <mxGeometry x="51" y="126.5" width="100" height="100" as="geometry">
             <mxPoint x="1713.3453890317078" y="412.0335104434455" as="sourcePoint" />
             <mxPoint x="1630" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1574" value="Счастливый ребенок" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1568" y="101.5" width="182" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1575" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.358;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1352" target="kbZLWcOoWII1aOp1QAB2-1574">
+          <mxGeometry x="41" y="116.5" width="100" height="100" as="geometry">
+            <mxPoint x="1814.781490571525" y="483.6329189918238" as="sourcePoint" />
+            <mxPoint x="1847.9006514657985" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1565" value="Любит персональное внимание" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2136" y="420" width="209" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1576" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="1352" target="kbZLWcOoWII1aOp1QAB2-1565">
+          <mxGeometry x="31" y="106.5" width="100" height="100" as="geometry">
+            <mxPoint x="1858.8431422400909" y="426.6985155578818" as="sourcePoint" />
+            <mxPoint x="2063.543478260869" y="454" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1577" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1516" target="kbZLWcOoWII1aOp1QAB2-1578">
+          <mxGeometry x="-1468" y="-273.5" width="100" height="100" as="geometry">
+            <mxPoint x="424.42640687119274" y="833.9264068711927" as="sourcePoint" />
+            <mxPoint x="560" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1578" value="Спектакли, шоу" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="538.5" y="840" width="151.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1579" value="Любит пробовать новое с родителем &lt;br&gt;или чтоб сначала можно было просто посмотреть" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="860.75" y="1221.5" width="289" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1580" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="1355" target="kbZLWcOoWII1aOp1QAB2-1579">
+          <mxGeometry x="253.5" y="49" width="100" height="100" as="geometry">
+            <mxPoint x="1179.6916469134885" y="1352.454545810654" as="sourcePoint" />
+            <mxPoint x="1108.4999999999995" y="1316.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1581" value="Воображать себя героем истории" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1469.5" y="1306.5" width="210.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1582" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="kbZLWcOoWII1aOp1QAB2-1581">
+          <mxGeometry x="253.5" y="49" width="100" height="100" as="geometry">
+            <mxPoint x="1280" y="1360" as="sourcePoint" />
+            <mxPoint x="1436.8070175438597" y="1256.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1583" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.205;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1353" target="kbZLWcOoWII1aOp1QAB2-1584">
+          <mxGeometry x="-14" y="206.5" width="100" height="100" as="geometry">
+            <mxPoint x="2060.9128576386656" y="900.6780492588159" as="sourcePoint" />
+            <mxPoint x="2100" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1584" value="Письмо=Лабиринты" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2095.5" y="1029.75" width="145.5" height="36.75" as="geometry" />
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1586" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="1352" target="kbZLWcOoWII1aOp1QAB2-1587">
+          <mxGeometry x="41" y="116.5" width="100" height="100" as="geometry">
+            <mxPoint x="1732.6242516376992" y="385.3651705854729" as="sourcePoint" />
+            <mxPoint x="1620" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1587" value="Обидчивый, отходчивый" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="321.5" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1588" value="Эмоциональный" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="371.5" width="140" height="28.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1589" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="1352" target="kbZLWcOoWII1aOp1QAB2-1588">
+          <mxGeometry x="51" y="126.5" width="100" height="100" as="geometry">
+            <mxPoint x="1700" y="400" as="sourcePoint" />
+            <mxPoint x="1658.1333333333332" y="371.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1590" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="1352">
+          <mxGeometry x="61" y="136.5" width="100" height="100" as="geometry">
+            <mxPoint x="1710.999999999986" y="426.5" as="sourcePoint" />
+            <mxPoint x="1690" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1710" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1591" value="Упрямый, настойчивый" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="500" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1592" value="За справедливость, &lt;br&gt;честность, поровну" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1751" y="500" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1593" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="1352" target="kbZLWcOoWII1aOp1QAB2-1592">
+          <mxGeometry x="71" y="146.5" width="100" height="100" as="geometry">
+            <mxPoint x="1739.3606392551937" y="472.4387477877067" as="sourcePoint" />
+            <mxPoint x="1700" y="509.9999999999998" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1594" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1354" target="kbZLWcOoWII1aOp1QAB2-1595">
+          <mxGeometry x="261" y="-93.5" width="100" height="100" as="geometry">
+            <mxPoint x="1838.5086713999717" y="1258.6100179371817" as="sourcePoint" />
+            <mxPoint x="1950" y="1250" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1595" value="Динозавры" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2021" y="1135.5" width="150" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1596" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" edge="1" parent="1">
+          <mxGeometry x="253.5" y="49" width="100" height="100" as="geometry">
+            <mxPoint x="1285.6646105846853" y="1349.3545382469547" as="sourcePoint" />
+            <mxPoint x="1450" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1597" value="Строить, собирать, складывать, создавать" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1251.5" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1598" value="сладости, мороженое" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="910.5" y="1317" width="189.5" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1599" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="1355" target="kbZLWcOoWII1aOp1QAB2-1598">
+          <mxGeometry x="253.5" y="49" width="100" height="100" as="geometry">
+            <mxPoint x="1173.662599204908" y="1374.5857655151162" as="sourcePoint" />
+            <mxPoint x="1089.4999999999995" y="1367.2387434554971" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

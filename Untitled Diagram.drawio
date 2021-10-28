@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T21:28:09.541Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="0kfbJ5_M4J3qEJkLb-_U" version="15.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T21:30:50.227Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="nG5k3SwO1w0WHC3RUZrM" version="15.6.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2216" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -662,8 +662,8 @@
             <mxPoint x="994.75" y="241.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kbZLWcOoWII1aOp1QAB2-1549" value="Кук. театр - не понр" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="925" y="430" width="168.5" height="40" as="geometry" />
+        <mxCell id="kbZLWcOoWII1aOp1QAB2-1549" value="Кук. театр - не понр, тк обещали игрушки,&lt;br&gt;&amp;nbsp;а была болтовня; дома любит театр теней и тп" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="790" y="430" width="303.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kbZLWcOoWII1aOp1QAB2-1550" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0.878;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1351" target="kbZLWcOoWII1aOp1QAB2-1549">
           <mxGeometry x="13.5" y="31.5" width="100" height="100" as="geometry">
